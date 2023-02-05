@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme: MyTheme.lightTheme,
       darkTheme: MyTheme.darkThem,
-      home: MainChatScreen(),
+      home: LoginScreen(),
     );
   }
 }
