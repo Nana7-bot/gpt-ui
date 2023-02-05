@@ -1,5 +1,7 @@
 # ChatGPT Ui Mobile App
 
+![alt text](/images/login.png)
+
 A mobile app that leverages the power of OpenAI's ChatGPT to provide an intuitive conversational experience for users. Built with Flutter, this app is designed to be fast, reliable, and easy to use.
 
 ## Getting Started
